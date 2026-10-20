@@ -2,6 +2,6 @@
 #define CONFIG_H
 #define SENSOR_PIN A0 // intrarea analogică a senzorului
 #define SAMPLE_PERIOD_MS 500 // perioada de eșantionare (ms)
-#define SERIAL_BAUD 115200 // viteza portului serial
+#define SERIAL_BAUD 19200 // viteza portului serial
 #define LED_PIN 13 // LED de stare 
 #endif
