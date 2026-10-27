@@ -22,3 +22,8 @@ Parolele și cheile de acces nu trebuie să ajungă niciodată într-un reposito
 - **`SERIAL_BAUD`** (`9600`) – Viteza de comunicație pe portul serial (exprimată în bauds / biți pe secundă).
 - **`LED_PIN`** (`13`) – Definește pinul digital la care este conectat LED-ul de stare.
 Comunicație serială la 19200 baud
+
+## Senzori utilizați
+| Senzor | Interfață | Domeniu |
+|---|---|---|
+| TMP36 | Analogic (A0) | -40°C .. +125°C |
